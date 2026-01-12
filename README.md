@@ -2,6 +2,8 @@
 
 Midway.js 组件，用于集成 Scalar API Reference，提供美观的 API 文档展示界面。
 
+![Scalar API Reference Preview](https://scalar.com/app-docs-animated.svg)
+
 ## 功能特性
 
 - 集成 Scalar API Reference 到 Midway.js 应用
